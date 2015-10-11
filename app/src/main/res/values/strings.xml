@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Security Report</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="application_list_header">Installed Applications</string>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
